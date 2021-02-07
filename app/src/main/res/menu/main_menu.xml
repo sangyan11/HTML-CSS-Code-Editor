@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Run"
+        android:id="@+id/run_menu"/>
+    <item android:title="Add Html Code"
+        android:id="@+id/html_code"/>
+    <item android:title="Clear"
+        android:id="@+id/clear"/>
+    <item android:title="Close"
+        android:id="@+id/close"/>
+</menu>
